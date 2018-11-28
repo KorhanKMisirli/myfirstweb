@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(185, 217, 167);
+  margin: 1 0 70px 0;
+  padding: 60px 180px 0px ;
+  
+}
+h1,
+h2,
+
+p {
+  text-align: center;
+}
+h1{
+  font-family:"Great Vibes",cursive;
+  font-size: 70px;
+  margin-bottom: 0px;
+}
+p{
+  font-family:"Merriweather",serif;
+  font-size: 25px;
+  margin-bottom: 0 auto 10px auto;
+  width: 100%;
+}
+
+ul { 
+  margin: auto;
+  max-width: 600px;
+  }
+li{
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+  margin: 20px 0;
+  }
+
+#image {
+  display: block;
+  margin: 30px auto 20px auto;
+  max-width: 100%;
+}
+figcaption {
+  font-family:"Merriweather",serif;
+  font-size: 15px;
+  margin-bottom: 0 auto 10px auto;
+  width: 100%;
+}
+#tribute-info{
+  margin-bottom: 20px;
+}
+
+.link-text{
+  font-size: 19px;
+  margin: 0 auto 10px auto;
+  text-align: center;
+  width: 80%;
+}
+
